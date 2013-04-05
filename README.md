@@ -6,11 +6,11 @@ XDebug code coverage report
 Usage:<br/>
 php -d auto_prepend_file=code_coverage_prepend.php b.php
 
-Code:
+Code:<br/>
 <img src="http://chuiwenchiu.files.wordpress.com/2013/04/20130405-code.jpg?w=650">
 
-Output:
-code_coverage_reports/b.php.html
+Output:<br/>
+code_coverage_reports/b.php.html<br/>
 <img src="http://chuiwenchiu.files.wordpress.com/2013/04/20130405.jpg?w=439">
 
 Reference<br/>
